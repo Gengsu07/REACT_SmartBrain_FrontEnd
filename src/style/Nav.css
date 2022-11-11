@@ -1,0 +1,13 @@
+#nav {
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: flex-end;
+  font-family: "Courier New", Courier, monospace;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#nav p {
+  margin: 0 1rem;
+  text-align: center;
+}

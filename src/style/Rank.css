@@ -1,0 +1,9 @@
+.Rank {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+  margin: 2rem 0rem;
+  text-align: center;
+}
